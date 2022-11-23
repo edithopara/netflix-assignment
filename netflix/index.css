@@ -1,0 +1,126 @@
+*{box-sizing: border-box; font-family: Arial, Helvetica, sans-serif;
+margin: 0; padding: 0;}
+
+.firstdiv
+{background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.459)), url(./first\ page.jpg); 
+  background-attachment: scroll; background-color: black;
+border-bottom: 8px solid #222; min-height: 100vh;}
+
+#net{font-size: 35px; font-weight:bold; color: red;
+margin-top: 15px; margin-left: 15px;}
+
+nav{display: flex; justify-content: space-between;}
+
+#sign{margin-top: 15px; margin-right: 15px;
+background-color: red; color: aliceblue;
+border-radius: 5px; border: 0; height: 30px; width: 70px;}
+
+h2{text-align: center; font-size: 45px; width: 500px;
+margin-left: 400px; margin-top: 120px; margin-bottom: 10px;
+color: white;}
+
+#watch{text-align: center; font-size: 25px; color: white;}
+
+#ready{text-align: center; color: white; font-size: 20px; }
+
+.input{text-align: center; }
+
+input{width: 400px; height: 40px;  
+    background-color: white; border: 0; margin-bottom: 200px;}
+
+ .get{width: 200px; height: 40px; background-color: red;
+font-size: 20px; color: aliceblue; border: 0; margin-bottom: 200px;}
+
+/*second section*/
+
+.wrapper{display: flex; justify-content: space-around;
+background-color: black; border-bottom: 8px solid #222;}
+
+.pic2{margin-top: 100px; margin-right: 60px; margin-bottom: 100px;}
+
+.enjoy{margin-top: 150px; margin-left: 50px; color: white;
+font-size: 25px;}
+
+#smart{width: 350px; font-size: 20px; color: white;}
+
+/*third section*/
+
+.third{display: flex; justify-content: space-around; background-color: black;
+border-bottom: 8px solid #222;}
+
+.pic3{margin-top: 100px; margin-right: 100px; margin-bottom: 100px;}
+
+.download{margin-top: 200px; margin-left: 150px;}
+
+#shows{width: 400px; color: white; font-size: 35px; }
+
+#fav{width: 380px; color: white; font-size: 22px;}
+
+/*fourth section*/
+
+.four{text-align: center; background-color: black;
+ border-bottom: 8px solid #222;}
+
+.stream{width: 380px; margin-left: 480px; color: white; 
+padding-bottom: 150px; font-size: 20px;}
+
+.watch{color: white; padding-top: 200px; font-size: 40px;}
+
+
+/*fifth section*/
+
+.five{display: flex; justify-content: space-around; background-color: black;
+border-bottom: 8px solid #222;}
+
+.kids{width: 380px;color: white; font-size: 20px;}
+
+.pic4{margin-top: 100px; margin-bottom: 100px; margin-right: 100px;}
+
+.profile{margin-top: 200px; margin-left: 80px;}
+
+.create{color: white; font-size: 40px; font-weight: bold;}
+
+
+/*sixth section*/
+
+
+.oh{list-style-type: none; border: 1px solid;
+width: 600px; height: 60px; margin-top: 10px;
+padding-top: 20px; padding-left: 20px; font-size: 20px;
+background-color: #222; color: white; border: 0;}
+
+.list{margin-left: 400px;}
+
+.para6{font-size: 40px; text-align: center; padding-top: 60px;
+margin-bottom: 30px; font-weight: bold; color: white;}
+
+#last{margin-top: 30px; margin-left: 30px; margin-bottom: 20px;
+font-weight: bold; color: white;}
+
+.six{background-color: black; border-bottom: 8px solid #222;}  
+
+#get{width: 200px; height: 40px; background-color: red;
+font-size: 20px; color: aliceblue; border: 0; margin-bottom: 80px;}
+
+#white{font-size: 20px;
+color: aliceblue;
+border: 0;
+margin-bottom: 80px;
+}
+
+.lastorder{display: flex; justify-content: space-around;
+margin-bottom: 30px; }
+
+.contact{padding-top: 50px; margin-left: 100px; margin-bottom: 20px;
+color: gray; }
+
+li{list-style-type: none; margin-top: 20px; color: grey;}
+
+#foot{margin-left: 100px; margin-top: 20px;
+padding-bottom: 40px; color: grey;}
+
+footer{background-color: black;}
+
+
+
+
